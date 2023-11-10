@@ -1,3 +1,4 @@
 # harsh-demo
 This is my first repository.
-Author - Harsh Pate;
+<br>
+Author - Harsh Patel
